@@ -6,7 +6,7 @@
 3. Make the model to predict the hashtags from the video.
 4. Evaluate to optimize the model.
 
-### This project will start from 21 or 22 of Oct. of 2023. (# 24 th)
+### This project will start from 5 of Nov. of 2023. (While moving place, I do not have time to start)
 
 [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 [trending hashtags](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?rid=xa2cidrjz4o)
